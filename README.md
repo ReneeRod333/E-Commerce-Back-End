@@ -14,6 +14,7 @@
 
   ## <a id="Link"></a>Deployed Application URL
   [Walkthrough Video](./assets/E_Commerce_Backend_1.mov)
+  [Walkthrough Video YouTube Link](https://youtu.be/oaUior-1RFM)
 
   ## Screenshot
   ![](./assets/Screenshot.png)
